@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.4.2"
+  },
+  "name": "view-my-team",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbairdgen/view-my-team.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbairdgen/view-my-team/issues"
+  },
+  "homepage": "https://github.com/bbairdgen/view-my-team#readme"
+}
